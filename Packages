@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.duraidabdul.neptune_1.0.0-15_iphoneos-arm.
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.duraidabdul.neptune_1.0.0-15_iphoneos-arm.deb
+Size: 29418
+MD5sum: a06518c81088ffa1a717086edf6ea397
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: duraiabdul <reposithree@gmail.com>
+Depiction: https://cd111.github.io/repo/depictions/?p=com.duraidabdul.neptune_1.0.0-15_iphoneos-arm.deb
