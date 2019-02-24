@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>com.duraidabdul.neptune_1.0.0-15_iphoneos-arm.deb</id>
+	<name>Neptune B5</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>12.2</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
